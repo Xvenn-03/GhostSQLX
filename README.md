@@ -1,4 +1,5 @@
 # GhostSQLX
+![GhostSQLX](Screenshot.jpg)
 GhostSQLX is a tool that searches for vulnerabilities in websites such as xss and sql vulnerabilities and this script will also search for open ports on the website. 
 
 ## The features in the script include: 
