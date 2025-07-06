@@ -9,15 +9,12 @@ GhostSQLX is a tool that searches for vulnerabilities in websites such as xss an
 ## Instalations
 Dont recode my script.
 ```
-$ pkg update -y && pkg upgrade -y
 $ apt update -y && apt upgrade -y
-$ termux-setup-storage
 $ pkg install git
 $ pkg install python -y
-$ git clone https://github.com/Xvenn-03/CPUORORv2.1.git
-$ cd CPUORORv2.1
-$ pip install -r requirements.txt
-$ python CPUORORv2.py
+$ git clone https://github.com/Xvenn-03/GhostSQLX
+$ cd GhostSQLX
+$ python3 Vuln.py
 ```
 ## There is a problem?
 If you have any problems or errors please contact me from gmail below
