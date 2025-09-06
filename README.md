@@ -13,7 +13,7 @@ Dont recode my script.
 $ apt update -y && apt upgrade -y
 $ pkg install git
 $ pkg install python -y
-$ git clone https://github.com/Xvenn-03/GhostSQLX
+$ git clone https://github.com/Xvenn-03/GhostSQLX.git
 $ cd GhostSQLX
 $ python3 Vuln.py
 ```
