@@ -15,7 +15,7 @@ $ pkg install git
 $ pkg install python -y
 $ git clone https://github.com/Xvenn-03/GhostSQLX.git
 $ cd GhostSQLX
-$ python3 Vuln.py
+$ python3 GhostSQLX.py
 ```
 ## There is a problem?
 If you have any problems or errors please contact me from gmail below
